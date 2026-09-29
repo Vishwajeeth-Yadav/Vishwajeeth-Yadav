@@ -2,15 +2,14 @@
 
 # Hi, I'm Vishwajeeth Yadav 👋
 
-<!-- Typing SVG -->
+<!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Software+Developer;Web+Development+%26+Problem+Solving;Building+Scalable+Applications;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Software+Developer;Web+Development+%26+Problem+Solving;Continuous+Learner+%26+Tech+Enthusiast" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Vishwajeeth-Yadav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
@@ -19,10 +18,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science / Software Engineering background with a strong interest in web technologies.
-- 💡 Passionate about writing clean, efficient, and maintainable code.
-- ⚙️ Focusing on strengthening core Data Structures & Algorithms and full-stack development principles.
-- 🎯 Looking for opportunities to contribute to impactful software projects and collaborate with other developers.
+- 💻 Passionate developer focused on building clean, responsive web applications and interfaces.
+- ⚙️ Strengthening core fundamentals in **JavaScript, React, and Data Structures & Algorithms**.
+- 🎯 Looking to collaborate on impactful projects and explore modern web technologies.
 
 ---
 
@@ -34,22 +32,27 @@
 
 | Area | Technologies / Concepts |
 | :--- | :--- |
-| **Languages** | JavaScript, Python, C++ (or Java), SQL, HTML5/CSS3 |
-| **Frameworks & Libs** | React.js, Tailwind CSS |
+| **Languages** | JavaScript, Python, C++, SQL, HTML5 / CSS3 |
+| **Frameworks & Libraries** | React.js, Tailwind CSS |
 | **Tools & Platforms** | Git, GitHub, VS Code |
-| **Fundamentals** | Data Structures & Algorithms, Object-Oriented Programming (OOP), REST APIs |
+| **Fundamentals** | Data Structures & Algorithms, Object-Oriented Programming (OOP) |
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🐍 Contribution Activity
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishwajeeth-Yadav/Vishwajeeth-Yadav/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishwajeeth-Yadav/Vishwajeeth-Yadav/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Vishwajeeth-Yadav/Vishwajeeth-Yadav/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishwajeeth-Yadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vishwajeeth's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajeeth-Yadav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+---
 
-<br/>
+### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwajeeth-Yadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwajeeth-Yadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
